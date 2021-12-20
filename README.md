@@ -1,2 +1,1 @@
-# Lumin
- files for Lumin
+files for Lupin
